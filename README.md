@@ -1,4 +1,4 @@
-# social-recruiter-django-vuex
+# social-recruiter-django-vue
 ## Description
 Recruiting Service using Twitter
 

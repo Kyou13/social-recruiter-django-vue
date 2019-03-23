@@ -1,0 +1,14 @@
+.card-content{
+  display: inline-block;
+  margin-right: 10px;
+}
+.card-stats .card-header.card-header-icon, .card-stats .card-header.card-header-text{
+  padding: 0.9375rem;
+}
+th.follower, th.follow{
+  width: 150px;
+}
+
+input.form-control{
+  color: white !important;
+}
